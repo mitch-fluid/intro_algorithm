@@ -1,0 +1,1 @@
+add_executable(maximum_subarray_problem.app maximum_subarray_problem.c)

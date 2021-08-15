@@ -7,6 +7,7 @@ SET(C_STANDARD 17)
 
 # all working executable 
 add_subdirectory(chapter_2)
+add_subdirectory(chapter_4)
 
 include(CTest)
 enable_testing()

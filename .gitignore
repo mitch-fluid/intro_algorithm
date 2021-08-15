@@ -60,4 +60,7 @@ dkms.conf
 build
 
 *.pdf 
+.vscode
+
+scratch.txt
 # End of https://www.toptal.com/developers/gitignore/api/c
