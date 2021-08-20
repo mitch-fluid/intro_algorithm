@@ -1,1 +1,2 @@
 add_executable(maximum_subarray_problem.app maximum_subarray_problem.c)
+add_executable(matrix_multiplication.app matrix_multiplication.c)
